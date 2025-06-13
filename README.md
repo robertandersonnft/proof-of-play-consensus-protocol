@@ -2,7 +2,7 @@
 # 🧠 Proof-of-Play Consensus Protocol (PoPX Protocol)
 
 > **The Consensus Engine of Verified Competition**  
-> “If it wasn’t PoP-CP, it didn’t really happen.”
+> “If it wasn’t PoPX Protocol, it didn’t really happen.”
 
 ## 🎮 Overview
 
